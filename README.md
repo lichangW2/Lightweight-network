@@ -15,3 +15,10 @@ Google Inc**
 **MobileNetV2: Inverted Residuals and Linear Bottlenecks**
 **Mark Sandler, Andrew Howard, Menglong Zhu, Andrey Zhmoginov, Liang-Chieh Chen**
 **Google Inc.**
+
+
+## ShuffleNet：
+
+**ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
+**Xiangyu Zhang∗ Xinyu Zhou∗ Mengxiao Lin Jian Sun**
+**Megvii Inc (Face++)**
