@@ -22,3 +22,8 @@ Google Inc**
 **ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**
 **Xiangyu Zhang∗ Xinyu Zhou∗ Mengxiao Lin Jian Sun**
 **Megvii Inc (Face++)**
+
+## ShuffleNet V2:
+****ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design**
+**Ningning Ma, Xiangyu Zhang, Hai-Tao Zheng, Jian Sun1**
+** 1 Megvii Inc (Face++) 2 Tsinghua University**
