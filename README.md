@@ -36,4 +36,11 @@ Lightweight network PyTorch实现
 
 **1 Megvii Inc (Face++) 2 Tsinghua University**
 
+## SqueezeNet
+
+**SqueezeNet：AlexNet-level accuracy with 50x fewer parameters and < 0.5MB Model Size**
+
+**Forrest N. Iandola, Song Han, Matthew W. Moskewicz, Khalid Ashraf, William J. Dally, Kurt Keutzer1**
+
+**DeepScale∗ & UC Berkeley Stanford University**
 
